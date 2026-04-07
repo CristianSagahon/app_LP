@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783848316792",
+    "project_id": "restaurante-92fef",
+    "storage_bucket": "restaurante-92fef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783848316792:android:98237a8789f6fdda4df28d",
+        "android_client_info": {
+          "package_name": "com.example.proyectorestaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-j3AQcE26CLxJmyJQWE91mtj6BQ9XyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
